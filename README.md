@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/vjmknVn/ierusalim-4.png" alt="" width="720">
+  <img src="https://i.ibb.co/LhgDCdC/Rectangle-6.png" alt="" width="720">
  </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## О проекте
   
--  Этот проект наглядно показывает работу с анимациями, как в JavaScript, так и в СSS. 
+-  Самый масштабный проект, который мне удалось воспроизвести. 
 - [x] Animation keyframes.
 - [x] Обратного таймера на javascript.
 - [x] Бургер меню для мобильной версии.
