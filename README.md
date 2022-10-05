@@ -14,9 +14,9 @@
 Главный уклон в работе был на JavaScript, написанный собственный скрипт для воспроизведения видео, аудио. 
 Также чисто написанный слайдер. 
 - [x] Animation keyframes.
-- [x] Собстенный скрипт работы видео.
+
 <p align="left">
-  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420">
+  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> - [x] Собстенный скрипт работы видео.
  </p>
 
 - [x] Бургер меню для мобильной версии.
