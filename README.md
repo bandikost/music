@@ -16,15 +16,15 @@
 - [x] Animation keyframes.
 
 <p align="center">
-  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> - [x] Собстенный скрипт работы видео.
+  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> 
  </p>
  
  <p align="center">
-  - [x] Собстенный скрипт работы видео. <img src="https://i.ibb.co/FqCMHSy/7wov-Kuo31-MM.jpg" alt="" width="420"> 
+  <img src="https://i.ibb.co/FqCMHSy/7wov-Kuo31-MM.jpg" alt="" width="420"> 
  </p>
  
  <p align="left">
-  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> - [x] Собстенный скрипт работы видео.
+  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> 
  </p>
 
 - [x] Бургер меню для мобильной версии.
