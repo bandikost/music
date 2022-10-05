@@ -15,7 +15,7 @@
 Также чисто написанный слайдер. 
 - [x] Animation keyframes.
 - [x] Собстенный скрипт работы видео.
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420">
  </p>
 
