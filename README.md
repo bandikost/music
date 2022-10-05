@@ -18,6 +18,14 @@
 <p align="left">
   <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> - [x] Собстенный скрипт работы видео.
  </p>
+ 
+ <p align="right">
+  - [x] Собстенный скрипт работы видео. <img src="https://i.ibb.co/FqCMHSy/7wov-Kuo31-MM.jpg" alt="" width="420"> 
+ </p>
+ 
+ <p align="left">
+  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> - [x] Собстенный скрипт работы видео.
+ </p>
 
 - [x] Бургер меню для мобильной версии.
 - [x] Прелоадер для красивой подзагрузки страницы.
