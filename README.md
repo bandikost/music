@@ -23,13 +23,13 @@
  - [x] Пример работы аудио
 
 
- <p align="left">
+ <p align="right">
   <img src="https://i.ibb.co/FqCMHSy/7wov-Kuo31-MM.jpg" alt="" width="420"> 
  </p>
  - [x] Логика при написании слайдера
 
 
- <p align="left">
+ <p align="right">
   <img src="https://i.ibb.co/PQGhBt4/87-Gzqzzj-Es4.jpg" alt="" width="420"> 
  </p>
 
