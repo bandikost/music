@@ -15,16 +15,22 @@
 Также чисто написанный слайдер. 
 - [x] Animation keyframes.
 - [x] Собственный скрипт на чисто js, для воспроизведения видео и аудио, на всех устройсвах
+
+
 <p align="center">
   <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> 
  </p>
- 
+ - [x] Собственный скрипт на чисто js, для воспроизведения видео и аудио, на всех устройсвах
+
+
  <p align="center">
   <img src="https://i.ibb.co/FqCMHSy/7wov-Kuo31-MM.jpg" alt="" width="420"> 
  </p>
- 
+ - [x] Собственный скрипт на чисто js, для воспроизведения видео и аудио, на всех устройсвах
+
+
  <p align="center">
-  <img src="https://i.ibb.co/3vKfStD/91vw-XU9le-Dc.jpg" alt="" width="420"> 
+  <img src="https://i.ibb.co/PQGhBt4/87-Gzqzzj-Es4.jpg" alt="" width="420"> 
  </p>
 
 - [x] Бургер меню для мобильной версии.
