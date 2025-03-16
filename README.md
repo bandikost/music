@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/LhgDCdC/Rectangle-6.png" alt="" width="720">
- </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS">
-    <img src="https://img.shields.io/badge/-Html-orange" alt="Html">
-</p>
-
 ## О проекте
   
 Сайт некое подобие плееру, но с уже загруженной музыкой.
@@ -38,7 +28,15 @@
 
 Этот проект стал значимым этапом в моем развитии как разработчика, позволяя глубже погрузиться в JavaScript и освоить множество полезных технологий.
 
- 
+ <p align="center">
+  <img src="https://i.ibb.co/LhgDCdC/Rectangle-6.png" alt="" width="720">
+ </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-CSS-blueviolet" alt="CSS">
+    <img src="https://img.shields.io/badge/-Html-orange" alt="Html">
+</p>
 
 
 
